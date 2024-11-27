@@ -2,7 +2,7 @@ This folder contains notebooks and datasets for bulding applications using LLMs.
 
 ## Information Extraction
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/manaranjanp/GenAI_LLM/blob/main/Applications/Upcoming_EV_Models_India.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/surajdwivedi0307/GenAI-LLMs/blob/main/Applications/Upcoming_EV_Models_India.ipynb)
 
 ## Summarization
 
